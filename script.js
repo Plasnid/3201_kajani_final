@@ -2,7 +2,7 @@
  * ! Section 1 - External Data - 40 points
  * * Create a json file with 3 objects as entries
  * * Each object needs a title and a description of a task
- * * Use Fetch and DOM Manipulation to load the data and turn it into a list.  
+ * * Use Fetch and DOM Manipulation to load the data and turn it into a list, displaying task title and task description 
  * * Ensure that all screen contents are built dynamically use DOM manipulation
  */
 
